@@ -1,5 +1,7 @@
 #####**TU Berlin** - **C**omplex and Distributed **IT**-System
 
+[![Join the chat at https://gitter.im/kps85/PPSN](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kps85/PPSN?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![TwitTUr - A social-networking platform][twittur_logo]
 ##**TwitTUr** - *A social-networking platform*
 
